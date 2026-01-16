@@ -2,251 +2,74 @@
   {
     "id": "africa_safari_hero",
     "name": "Africasafarihero",
+    "phoneNumber": "0620148904",
     "logoUrl": "https://i.postimg.cc/J0w5wyNr/file-00000000333071fda05a443a39e09630-(1).png",
-    "countries": ["Tanzania", "Kenya", "Uganda", "Rwanda"],
-    "specialties": ["SAFARI", "BUDGET", "ADVENTURE", "GORILLA"],
-    "rating": 5.0,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "moafrika_tours",
-    "name": "MoAfrika Tours",
-    "logoUrl": "https://afrikta.com/wp-content/uploads/2019/08/mofrica-best.png",
-    "countries": ["South Africa", "Namibia", "Botswana"],
-    "specialties": ["KRUGER", "Southern Africa", "SAFARI", "CITY_TOURS"],
-    "rating": 4.8,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "chameleon_namibia",
-    "name": "Chameleon Safaris",
-    "logoUrl": "https://www.chameleonsafaris.com/wp-content/uploads/2023/07/chamsaf-weblogo-600.png",
-    "countries": ["Namibia"],
-    "specialties": ["DESERT", "Southern Africa", "ADVENTURE", "SOSSUSVLEI"],
-    "rating": 4.8,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "ashanti_west_africa",
-    "name": "Ashanti African Tours",
-    "logoUrl": "https://aat-foundation.org/wp-content/uploads/2024/10/cropped-Untitled-1-3.png",
-    "countries": ["Ghana", "Senegal", "Benin", "Togo", "Ivory Coast"],
-    "specialties": ["CULTURAL", "West Africa", "BIRDING", "HERITAGE"],
-    "rating": 4.9,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "exodus_travels",
-    "name": "Exodus Adventure Travels",
-    "logoUrl": "https://example.com/logos/exodus.png",
-    "countries": ["Egypt", "Morocco", "Namibia", "Zambia"],
-    "specialties": ["North Africa", "HISTORY", "TREKKING", "ZAMBEZI"],
-    "rating": 4.7,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "falcon_safaris",
-    "name": "Falcon Safaris",
-    "logoUrl": "https://example.com/logos/falcon.png",
-    "countries": ["Zimbabwe", "Zambia", "Botswana"],
-    "specialties": ["VICTORIA_FALLS", "Southern Africa", "SAFARI", "ZAMBEZI"],
-    "rating": 4.6,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "wild_planet_safari",
-    "name": "Wild Planet Safari",
-    "logoUrl": "https://example.com/logos/wildplanet.png",
-    "countries": ["South Africa", "Botswana"],
-    "specialties": ["KRUGER", "Southern Africa", "PHOTOGRAPHY", "SAFARI"],
-    "rating": 5.0,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "travel_talk_north",
-    "name": "Travel Talk Tours",
-    "logoUrl": "https://example.com/logos/traveltalk.png",
-    "countries": ["Egypt", "Morocco"],
-    "specialties": ["North Africa", "CULTURAL", "BUDGET", "HISTORY"],
-    "rating": 4.6,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "springbok_atlas",
-    "name": "Springbok Atlas",
-    "logoUrl": "https://example.com/logos/springbok.png",
-    "countries": ["South Africa", "Namibia", "Botswana", "Zimbabwe"],
-    "specialties": ["LUXURY", "Southern Africa", "GARDEN_ROUTE", "SAFARI"],
-    "rating": 4.8,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "continent_tours",
-    "name": "Continent Tours",
-    "logoUrl": "https://example.com/logos/continent.png",
-    "countries": ["Senegal", "Gambia", "Mali", "Ghana"],
-    "specialties": ["West Africa", "CULTURAL", "ADVENTURE"],
-    "rating": 4.5,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "wild_adventure_zambia",
-    "name": "Wild Adventure Zambia",
-    "logoUrl": "https://example.com/logos/zambian.png",
-    "countries": ["Zambia"],
-    "specialties": ["WALKING_SAFARI", "Southern Africa", "LUXURY", "ZAMBEZI"],
-    "rating": 4.9,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "asilia_africa",
-    "name": "Asilia Africa",
-    "logoUrl": "https://example.com/logos/asilia.png",
     "countries": ["Tanzania", "Kenya"],
-    "specialties": ["SAFARI", "LUXURY", "PHOTOGRAPHY", "East Africa"],
-    "rating": 4.8,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "andbeyond",
-    "name": "&Beyond",
-    "logoUrl": "https://example.com/logos/andbeyond.png",
-    "countries": ["Tanzania", "Kenya", "South Africa", "Botswana", "Namibia"],
-    "specialties": ["SAFARI", "LUXURY", "PHOTOGRAPHY", "Southern Africa"],
-    "rating": 4.9,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "wildness_safaris",
-    "name": "Wilderness Safaris",
-    "logoUrl": "https://example.com/logos/wilderness.png",
-    "countries": ["Botswana", "Namibia", "Zambia", "Zimbabwe"],
-    "specialties": ["LUXURY", "CONSERVATION", "Southern Africa"],
-    "rating": 4.9,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "g_adventures",
-    "name": "G Adventures",
-    "logoUrl": "https://example.com/logos/gadventures.png",
-    "countries": ["South Africa", "Tanzania", "Kenya", "Morocco"],
-    "specialties": ["BUDGET", "ADVENTURE", "CULTURAL"],
-    "rating": 4.6,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "rhino_africa",
-    "name": "Rhino Africa",
-    "logoUrl": "https://example.com/logos/rhino.png",
-    "countries": ["South Africa", "Botswana", "Zimbabwe"],
-    "specialties": ["LUXURY", "FAMILY", "Southern Africa"],
-    "rating": 4.8,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "altezzatravel",
-    "name": "Altezza Travel",
-    "logoUrl": "https://example.com/logos/altezza.png",
-    "countries": ["Tanzania"],
-    "specialties": ["SAFARI", "TREKKING", "KILIMANJARO"],
-    "rating": 4.9,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "volcanoes_safaris",
-    "name": "Volcanoes Safaris",
-    "logoUrl": "https://example.com/logos/volcanoes.png",
-    "countries": ["Uganda", "Rwanda"],
-    "specialties": ["GORILLA", "LUXURY", "East Africa"],
-    "rating": 4.9,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "intrepid_travel",
-    "name": "Intrepid Travel",
-    "logoUrl": "https://example.com/logos/intrepid.png",
-    "countries": ["Morocco", "Egypt", "Kenya", "Tanzania"],
-    "specialties": ["CULTURAL", "BUDGET", "ADVENTURE", "North Africa"],
-    "rating": 4.5,
-    "priceTier": "$$",
-    "isVerified": true
-  },
-  {
-    "id": "yellow_zebra",
-    "name": "Yellow Zebra Safaris",
-    "logoUrl": "https://example.com/logos/yellowzebra.png",
-    "countries": ["Tanzania", "Kenya", "Zambia", "Botswana"],
-    "specialties": ["SAFARI", "PHOTOGRAPHY", "LUXURY"],
-    "rating": 4.7,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "absolute_africa",
-    "name": "Absolute Africa",
-    "logoUrl": "https://example.com/logos/absolute.png",
-    "countries": ["Kenya", "Tanzania", "Uganda", "Zimbabwe"],
-    "specialties": ["BUDGET", "OVERLAND", "ADVENTURE"],
-    "rating": 4.6,
-    "priceTier": "$",
-    "isVerified": true
-  },
-  {
-    "id": "gosheni_safaris",
-    "name": "Gosheni Safaris",
-    "logoUrl": "https://example.com/logos/gosheni.png",
-    "countries": ["Tanzania", "Kenya"],
-    "specialties": ["SAFARI", "MID-RANGE", "East Africa"],
-    "rating": 4.8,
-    "priceTier": "$$$",
-    "isVerified": true
-  },
-  {
-    "id": "african_bush_camps",
-    "name": "African Bush Camps",
-    "logoUrl": "https://example.com/logos/bushcamps.png",
-    "countries": ["Botswana", "Zimbabwe", "Zambia"],
-    "specialties": ["SAFARI", "SUSTAINABLE", "Southern Africa"],
-    "rating": 4.8,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "nomad_tanzania",
-    "name": "Nomad Tanzania",
-    "logoUrl": "https://example.com/logos/nomad.png",
-    "countries": ["Tanzania"],
-    "specialties": ["SAFARI", "PHOTOGRAPHY", "East Africa"],
-    "rating": 4.8,
-    "priceTier": "$$$$",
-    "isVerified": true
-  },
-  {
-    "id": "lion_king_adventures",
-    "name": "Lion King Adventures",
-    "logoUrl": "https://example.com/logos/lionking.png",
-    "countries": ["Tanzania"],
-    "specialties": ["SAFARI", "MID-RANGE", "FAMILY"],
+    "specialties": ["SAFARI", "HONEYMOON", "FAMILY", "FLY-IN"],
     "rating": 5.0,
+    "reviewCount": 1240,
     "priceTier": "$$$",
-    "isVerified": true
+    "isVerified": true,
+    "verificationType": "Tanzania Tourist Board",
+    "region": "East Africa",
+    "description": "Africa Safari Hero creates high-impact African journeys. We specialize in everything from romantic honeymoon escapes to high-adrenaline fly-in safaris from the beaches of Zanzibar.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Honeymoon: Cape Town & Winelands",
+        "description": "A romantic luxury escape blending the beauty of Table Mountain with private tastings in Stellenbosch.",
+        "mainImage": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4",
+        "durationDays": 7,
+        "placesVisited": ["Cape Town", "Stellenbosch"],
+        "priceRange": "$2,800 - $3,500",
+        "bestTime": "Nov - March",
+        "highlights": ["Private Vineyard Dinner", "Helicopter Tour"],
+        "bookingUrl": "https://example.com/honeymoon"
+      },
+      {
+        "id": 2,
+        "title": "6-Day Photography: Serengeti Migration",
+        "description": "Professional-led safari following the herds through the Mara River crossings.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 6,
+        "placesVisited": ["Serengeti", "Ngorongoro Crater"],
+        "priceRange": "$3,200 - $4,000",
+        "bestTime": "July - Sept",
+        "highlights": ["Private Photo Jeep", "Migration Crossings"]
+      },
+      {
+        "id": 3,
+        "title": "5-Day Family Fun: Victoria Falls",
+        "description": "Excitement for all ages. See the Smoke that Thunders and enjoy elephant cafes.",
+        "mainImage": "https://images.unsplash.com/photo-1627389856983-36c92d50694e",
+        "durationDays": 5,
+        "placesVisited": ["Victoria Falls", "Zambezi River"],
+        "priceRange": "$1,400 - $1,900",
+        "bestTime": "April - June",
+        "highlights": ["Devil's Pool", "Helicopter Flight"]
+      },
+      {
+        "id": 4,
+        "title": "3-Day Delta Adrenaline: Okavango",
+        "description": "Short but intense. Navigate the delta in a Mokoro canoe and sleep under the stars.",
+        "mainImage": "https://images.unsplash.com/photo-1549221543-30cc846503b8",
+        "durationDays": 3,
+        "placesVisited": ["Okavango Delta"],
+        "priceRange": "$900 - $1,300",
+        "bestTime": "July - Oct",
+        "highlights": ["Mokoro Navigation", "Bush Camping"]
+      },
+      {
+        "id": 5,
+        "title": "1-Day Fly-In: Zanzibar to Mikumi",
+        "description": "From Beach to Bush. Morning flight from Zanzibar, full game drive in Mikumi, evening return to the islands.",
+        "mainImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e",
+        "durationDays": 1,
+        "placesVisited": ["Zanzibar", "Mikumi National Park"],
+        "priceRange": "$450 - $550",
+        "bestTime": "Year-round",
+        "highlights": ["Private Flight", "Lion Spotting", "Same-day Return"]
+      }
+    ]
   }
 ]
