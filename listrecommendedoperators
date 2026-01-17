@@ -69,6 +69,223 @@
         "priceRange": "$450 - $550",
         "bestTime": "Year-round",
         "highlights": ["Private Flight", "Lion Spotting", "Same-day Return"]
+
+ {
+    "id": "and_beyond_safari",
+    "name": "andBeyond",
+    "phoneNumber": "+27118094300",
+    "logoUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/andBeyond-Logo-Gold.png",
+    "countries": ["South Africa", "Botswana", "Namibia", "Kenya", "Tanzania", "Rwanda"],
+    "specialties": ["LUXURY", "CONSERVATION", "WELLNESS", "FAMILY"],
+    "rating": 4.9,
+    "reviewCount": 3850,
+    "priceTier": "$$$$",
+    "isVerified": true,
+    "verificationType": "Global Sustainable Tourism Council",
+    "region": "Pan-Africa",
+    "description": "andBeyond is a world leader in luxury experiential travel. We focus on 'Care of the Land, Wildlife, and People,' delivering high-end lodge experiences with the continent’s finest interpretive guides.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "10-Day Wellness Journey: Phinda Private Reserve",
+        "description": "A soul-replenishing safari in South Africa combining Big Five tracking with yoga, meditation, and forest spa treatments.",
+        "mainImage": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d",
+        "durationDays": 10,
+        "placesVisited": ["Phinda Mountain Lodge", "Phinda Forest Lodge"],
+        "priceRange": "$8,500 - $12,000",
+        "bestTime": "May - Sept",
+        "highlights": ["Zulu Zen Yoga", "Rhino Notching Experience", "Interpretive Bush Walks"],
+        "bookingUrl": "https://www.andbeyond.com/wellness"
+      },
+      {
+        "id": 2,
+        "title": "8-Day Ultra-Luxury: Fly Me Around East Africa",
+        "description": "An elite aerial safari jumping between the Masai Mara and the Serengeti via private charter.",
+        "mainImage": "https://images.unsplash.com/photo-1519066629447-267fffa62d4b",
+        "durationDays": 8,
+        "placesVisited": ["Masai Mara", "Serengeti", "Ngorongoro Crater"],
+        "priceRange": "$12,055 - $16,700",
+        "bestTime": "June - Oct",
+        "highlights": ["Hot Air Balloon Safari", "Crater Floor Picnic", "Private Flight Transfers"]
+      }
+    ]
+  },
+  {
+    "id": "wilderness_destinations",
+    "name": "Wilderness",
+    "phoneNumber": "+2673906411",
+    "logoUrl": "https://www.wildernessdestinations.com/assets/logo.svg",
+    "countries": ["Botswana", "Namibia", "Zambia", "Zimbabwe", "Rwanda"],
+    "specialties": ["ECO-TOURISM", "PHOTOGRAPHY", "REMOTE-ACCESS", "ADVENTURE"],
+    "rating": 4.8,
+    "reviewCount": 2100,
+    "priceTier": "$$$$",
+    "isVerified": true,
+    "verificationType": "Botswana Tourism Organisation",
+    "region": "Southern Africa",
+    "description": "Wilderness operates in Africa’s most remote and pristine areas. We are dedicated to conserving the world’s iconic wild destinations through high-end, low-impact hospitality.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "12-Day Southern African Explorer",
+        "description": "A comprehensive journey through Zimbabwe, Zambia, and the Okavango Delta, focusing on land and water-based wildlife sightings.",
+        "mainImage": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56",
+        "durationDays": 12,
+        "placesVisited": ["Hwange NP", "Victoria Falls", "Okavango Delta"],
+        "priceRange": "$9,800 - $14,500",
+        "bestTime": "July - Oct",
+        "highlights": ["Mombo Camp Game Drives", "Star Bed Sleepout", "Mokoro Excursions"],
+        "bookingUrl": "https://www.wilderness.com/explore"
+      },
+      {
+        "id": 2,
+        "title": "4-Day Primate Encounter: Bisate Reserve",
+        "description": "An intimate gorilla trekking experience in Rwanda's Volcanoes National Park staying at the award-winning Bisate Lodge.",
+        "mainImage": "https://images.unsplash.com/photo-1581281863883-2469417a1668",
+        "durationDays": 4,
+        "placesVisited": ["Volcanoes National Park"],
+        "priceRange": "$6,000 - $8,500",
+        "bestTime": "Dec - Feb",
+        "highlights": ["Gorilla Trekking", "Golden Monkey Tracking", "Community Village Visit"]
+      }
+    ]
+  },
+  {
+    "id": "moafrika_tours",
+    "name": "MoAfrika Tours",
+    "phoneNumber": "+27119731454",
+    "logoUrl": "https://www.moafrikatours.com/logo.png",
+    "countries": ["South Africa", "Namibia", "Botswana"],
+    "specialties": ["DAY-TOURS", "CULTURAL", "BUDGET-FRIENDLY", "KRUGER-SPECIALISTS"],
+    "rating": 4.7,
+    "reviewCount": 4133,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "SATS (Southern Africa Tourism Services)",
+    "region": "Southern Africa",
+    "description": "MoAfrika is a leading South African operator known for accessible, high-quality day tours and multi-day safaris to the Kruger National Park and beyond.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "3-Day Kruger Park Budget Safari",
+        "description": "The perfect introduction to the Big Five for travelers on a schedule. Includes open-vehicle game drives and cozy lodge stays.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 3,
+        "placesVisited": ["Kruger National Park", "Panorama Route"],
+        "priceRange": "$450 - $750",
+        "bestTime": "May - Sept",
+        "highlights": ["Sunset Game Drive", "Blyde River Canyon", "Bush Braai Dinner"],
+        "bookingUrl": "https://moafrikatours.com/kruger-3-day"
+
+ {
+    "id": "ashanti_african_tours",
+    "name": "Ashanti African Tours",
+    "phoneNumber": "+233244228432",
+    "logoUrl": "https://ashantiafricantours.com/wp-content/uploads/2021/05/ashanti-logo.png",
+    "countries": ["Ghana", "Senegal", "Benin", "Togo", "Ivory Coast"],
+    "specialties": ["CULTURAL", "BIRDING", "WILDLIFE", "HERITAGE"],
+    "rating": 4.9,
+    "reviewCount": 850,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Ghana Tourism Authority",
+    "region": "West Africa",
+    "description": "The premier specialist for West Africa. We focus on immersive cultural experiences, from the voodoo ceremonies of Benin to the historic 'Door of No Return' in Ghana.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "14-Day West African Odyssey",
+        "description": "An epic journey through Ghana, Togo, and Benin exploring the roots of voodoo and the Ashanti Kingdom.",
+        "mainImage": "https://images.unsplash.com/photo-1590074072786-a66914d668f1",
+        "durationDays": 14,
+        "placesVisited": ["Accra", "Kumasi", "Lome", "Ouidah"],
+        "priceRange": "$3,800 - $4,500",
+        "bestTime": "Nov - March",
+        "highlights": ["Voodoo Ceremony", "Ashanti Royal Palace", "St. George’s Castle"]
+      }
+    ]
+  },
+  {
+    "id": "moroccan_journeys",
+    "name": "Moroccan Journeys",
+    "phoneNumber": "+441223968122",
+    "logoUrl": "https://moroccanjourneys.com/wp-content/uploads/2022/logo-mj.png",
+    "countries": ["Morocco"],
+    "specialties": ["DESERT-TREK", "LUXURY", "CULINARY", "PRIVATE-GUIDE"],
+    "rating": 5.0,
+    "reviewCount": 612,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Moroccan National Tourism Office",
+    "region": "North Africa",
+    "description": "Specialists in bespoke Moroccan travel. We connect travelers with authentic Berber culture, luxury riads, and private Sahara expeditions.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Imperial Cities & Sahara",
+        "description": "From the labyrinthine souks of Fes to a private luxury camp under the stars in the Erg Chebbi dunes.",
+        "mainImage": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43",
+        "durationDays": 8,
+        "placesVisited": ["Marrakech", "Fes", "Merzouga"],
+        "priceRange": "$2,200 - $3,100",
+        "bestTime": "March - May",
+        "highlights": ["Camel Trekking", "Atlas Mountain Tea with Berbers", "Private Souk Guide"]
+      }
+    ]
+  },
+  {
+    "id": "golden_rwanda_safaris",
+    "name": "Golden Rwanda Safaris",
+    "phoneNumber": "+250788305703",
+    "logoUrl": "https://goldenrwandasafaris.com/wp-content/uploads/2023/logo.png",
+    "countries": ["Rwanda", "Uganda", "DR Congo"],
+    "specialties": ["GORILLA-TREKKING", "PRIMATES", "CONSERVATION", "LUXURY"],
+    "rating": 4.9,
+    "reviewCount": 298,
+    "priceTier": "$$$$",
+    "isVerified": true,
+    "verificationType": "Rwanda Development Board",
+    "region": "East/Central Africa",
+    "description": "Rwanda’s top-rated primate specialist. We provide life-changing encounters with Mountain Gorillas and Golden Monkeys in the mist-covered volcanoes.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "4-Day Primate Encounter",
+        "description": "A focused, luxury expedition into Volcanoes National Park for the ultimate Gorilla trekking experience.",
+        "mainImage": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d",
+        "durationDays": 4,
+        "placesVisited": ["Kigali", "Volcanoes National Park"],
+        "priceRange": "$4,000 - $6,500",
+        "bestTime": "June - Sept",
+        "highlights": ["Gorilla Permit Included", "Golden Monkey Tracking", "Kigali Genocide Memorial Visit"]
+      }
+    ]
+  },
+  {
+    "id": "beyond_the_nile",
+    "name": "Beyond The Nile Tours",
+    "phoneNumber": "+201006543210",
+    "logoUrl": "https://beyondthenile.com/assets/images/logo.png",
+    "countries": ["Egypt", "Jordan"],
+    "specialties": ["HISTORY", "NILE-CRUISE", "ARCHAEOLOGY", "FAMILY"],
+    "rating": 4.7,
+    "reviewCount": 1840,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Egypt Ministry of Tourism",
+    "region": "North Africa",
+    "description": "Expert-led journeys through the Land of the Pharaohs. We specialize in private Dahabiya Nile cruises and exclusive access to the Giza Plateau.",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "9-Day Grand Egyptian Treasures",
+        "description": "Visit the Grand Egyptian Museum (GEM) and cruise the Nile on a private luxury vessel from Luxor to Aswan.",
+        "mainImage": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+        "durationDays": 9,
+        "placesVisited": ["Cairo", "Luxor", "Aswan", "Abu Simbel"],
+        "priceRange": "$2,500 - $3,800",
+        "bestTime": "Oct - April",
+        "highlights": ["Great Pyramid Entry", "Valley of the Kings", "Sunrise at Abu Simbel"]
       }
     ]
   }
