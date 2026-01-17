@@ -69,8 +69,10 @@
         "priceRange": "$450 - $550",
         "bestTime": "Year-round",
         "highlights": ["Private Flight", "Lion Spotting", "Same-day Return"]
-
- {
+      }
+    ]
+  },
+  {
     "id": "and_beyond_safari",
     "name": "andBeyond",
     "phoneNumber": "+27118094300",
@@ -176,8 +178,10 @@
         "bestTime": "May - Sept",
         "highlights": ["Sunset Game Drive", "Blyde River Canyon", "Bush Braai Dinner"],
         "bookingUrl": "https://moafrikatours.com/kruger-3-day"
-
- {
+      }
+    ]
+  },
+  {
     "id": "ashanti_african_tours",
     "name": "Ashanti African Tours",
     "phoneNumber": "+233244228432",
@@ -290,3 +294,4 @@
     ]
   }
 ]
+
