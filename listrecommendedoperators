@@ -1,7 +1,7 @@
 [
   {
     "id": "africa_safari_hero",
-    "name": "Africasafarihero",
+    "name": "Africa Safari Hero",
     "phoneNumber": "0620148904",
     "logoUrl": "https://i.postimg.cc/J0w5wyNr/file-00000000333071fda05a443a39e09630-(1).png",
     "countries": ["Tanzania", "Kenya"],
@@ -85,7 +85,7 @@
     "isVerified": true,
     "verificationType": "Global Sustainable Tourism Council",
     "region": "Pan-Africa",
-    "description": "andBeyond is a world leader in luxury experiential travel. We focus on 'Care of the Land, Wildlife, and People,' delivering high-end lodge experiences with the continent’s finest interpretive guides.",
+    "description": "andBeyond is a world leader in luxury experiential travel. We focus on 'Care of the Land, Wildlife, and People,' delivering high-end lodge experiences with the continent's finest interpretive guides.",
     "itineraries": [
       {
         "id": 1,
@@ -125,7 +125,7 @@
     "isVerified": true,
     "verificationType": "Botswana Tourism Organisation",
     "region": "Southern Africa",
-    "description": "Wilderness operates in Africa’s most remote and pristine areas. We are dedicated to conserving the world’s iconic wild destinations through high-end, low-impact hospitality.",
+    "description": "Wilderness operates in Africa's most remote and pristine areas. We are dedicated to conserving the world's iconic wild destinations through high-end, low-impact hospitality.",
     "itineraries": [
       {
         "id": 1,
@@ -205,7 +205,7 @@
         "placesVisited": ["Accra", "Kumasi", "Lome", "Ouidah"],
         "priceRange": "$3,800 - $4,500",
         "bestTime": "Nov - March",
-        "highlights": ["Voodoo Ceremony", "Ashanti Royal Palace", "St. George’s Castle"]
+        "highlights": ["Voodoo Ceremony", "Ashanti Royal Palace", "St. George's Castle"]
       }
     ]
   },
@@ -250,7 +250,7 @@
     "isVerified": true,
     "verificationType": "Rwanda Development Board",
     "region": "East/Central Africa",
-    "description": "Rwanda’s top-rated primate specialist. We provide life-changing encounters with Mountain Gorillas and Golden Monkeys in the mist-covered volcanoes.",
+    "description": "Rwanda's top-rated primate specialist. We provide life-changing encounters with Mountain Gorillas and Golden Monkeys in the mist-covered volcanoes.",
     "itineraries": [
       {
         "id": 1,
@@ -292,6 +292,702 @@
         "highlights": ["Great Pyramid Entry", "Valley of the Kings", "Sunrise at Abu Simbel"]
       }
     ]
+  },
+  {
+    "id": "sundown_african_adventures",
+    "name": "Sundown African Adventures LTD",
+    "phoneNumber": "+255685912095",
+    "logoUrl": "https://tatotz.org/wp-content/uploads/2024/12/Sundown-logo.png",
+    "countries": ["Tanzania", "Kenya"],
+    "specialties": ["CULTURAL", "BEACH", "ADVENTURE", "PERSONALIZED"],
+    "rating": 4.8,
+    "reviewCount": 340,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Tanzania Association of Tour Operators",
+    "region": "East Africa",
+    "description": "Sundown African Adventures Ltd is a premier tour and travel company dedicated to delivering exceptional and unforgettable African experiences. Based in East Africa, we specialize in crafting personalized safaris, cultural journeys, beach holidays, and adventure tours that showcase the region's breathtaking wildlife, diverse landscapes, and rich cultural heritage [citation:1].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "10-Day Cultural Immersion: Maasai & Safari",
+        "description": "A deep dive into Maasai culture combined with classic northern circuit wildlife viewing.",
+        "mainImage": "https://images.unsplash.com/photo-1532015781578-cc7b6c5f9a0a",
+        "durationDays": 10,
+        "placesVisited": ["Arusha", "Lake Manyara", "Serengeti", "Maasai Village"],
+        "priceRange": "$3,200 - $4,500",
+        "bestTime": "June - Oct",
+        "highlights": ["Maasai Warrior Training", "Village Homestay", "Endless Plains Game Drives"],
+        "bookingUrl": "https://sundownadventures.com/cultural-safari"
+      }
+    ]
+  },
+  {
+    "id": "zara_tanzania_adventures",
+    "name": "Zara Tanzania Adventures",
+    "phoneNumber": "+255272755000",
+    "logoUrl": "https://www.zaratours.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya"],
+    "specialties": ["KILIMANJARO", "LUXURY", "SMALL-GROUPS", "WILDLIFE"],
+    "rating": 4.9,
+    "reviewCount": 2150,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Tanzania Association of Tour Operators",
+    "region": "East Africa",
+    "description": "Focusing on Tanzania and Kenya, Zara Tours is a smaller tour company providing a more personal service to customers. Despite being priced a bit higher, the small group sizes create a more personal and unique experience for travelers. Most of the tours provided are high-end and luxurious with a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Kilimanjaro Climb - Lemosho Route",
+        "description": "The most scenic route up Kilimanjaro, offering panoramic views and excellent acclimatization profiles.",
+        "mainImage": "https://images.unsplash.com/photo-1542332219-08c8f9e089b7",
+        "durationDays": 8,
+        "placesVisited": ["Mount Kilimanjaro", "Shira Plateau", "Barranco Wall", "Uhuru Peak"],
+        "priceRange": "$2,800 - $3,800",
+        "bestTime": "Jan - March, June - Oct",
+        "highlights": ["Summit at Midnight", "Glacier Views", "Expert Mountain Guides"],
+        "bookingUrl": "https://zaratours.com/lemosho-route"
+      }
+    ]
+  },
+  {
+    "id": "lights_on_africa",
+    "name": "Lights on Africa Destinations & Safaris",
+    "phoneNumber": "+255767777000",
+    "logoUrl": "https://www.lightsonafrica.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya", "Namibia"],
+    "specialties": ["LUXURY", "PHOTOGRAPHY", "FLY-IN", "PRIVATE"],
+    "rating": 4.8,
+    "reviewCount": 560,
+    "priceTier": "$$$$",
+    "isVerified": true,
+    "verificationType": "Tanzania Association of Tour Operators",
+    "region": "East & Southern Africa",
+    "description": "Lights on Africa offers local safari tours through Tanzania, Kenya, and Namibia. While the cost of their safaris may be on the higher side, the smaller groups ensure a more personalized journey for travelers. The safaris offered are usually luxurious, high-end, and provide a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "12-Day Ultimate Safari: Tarangire to Serengeti",
+        "description": "A comprehensive luxury safari covering all major northern circuit parks with exclusive fly-in options between destinations.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 12,
+        "placesVisited": ["Tarangire", "Lake Manyara", "Ngorongoro Crater", "Serengeti"],
+        "priceRange": "$6,500 - $8,900",
+        "bestTime": "June - Oct",
+        "highlights": ["Private Guide", "Hot Air Balloon Safari", "Bush Dining"]
+      }
+    ]
+  },
+  {
+    "id": "africa_venture_safaris",
+    "name": "Africa Venture Safaris",
+    "phoneNumber": "+254722203350",
+    "logoUrl": "https://www.africaventuresafaris.com/images/logo.png",
+    "countries": ["Kenya", "Tanzania", "Uganda"],
+    "specialties": ["SMALL-GROUPS", "LUXURY", "PRIMATES", "MIGRATION"],
+    "rating": 4.8,
+    "reviewCount": 780,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Kenya Association of Tour Operators",
+    "region": "East Africa",
+    "description": "Africa Venture Safaris offers local safari tours through Kenya, Tanzania, and Uganda. Although the prices might be slightly above average, the small group sizes provide travelers with a more personal experience. Most of the tours provided are high-end and luxurious with a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Kenya & Tanzania Migration Safari",
+        "description": "Track the Great Migration across the Mara and Serengeti ecosystems with expert guides and premium accommodations.",
+        "mainImage": "https://images.unsplash.com/photo-1547970810-d7e9e4d2d6c0",
+        "durationDays": 7,
+        "placesVisited": ["Masai Mara", "Serengeti", "Ngorongoro Crater"],
+        "priceRange": "$4,200 - $5,800",
+        "bestTime": "July - Oct",
+        "highlights": ["Mara River Crossings", "Hot Air Balloon", "Private Conservancy Visits"]
+      }
+    ]
+  },
+  {
+    "id": "jeep_safaris_kenya",
+    "name": "Jeep Safaris and Tours",
+    "phoneNumber": "+254722512345",
+    "logoUrl": "https://www.jeepsafariskenya.com/logo.png",
+    "countries": ["Kenya", "Tanzania"],
+    "specialties": ["PRIVATE", "LUXURY", "PHOTOGRAPHY", "CULTURAL"],
+    "rating": 4.8,
+    "reviewCount": 420,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Kenya Association of Tour Operators",
+    "region": "East Africa",
+    "description": "Jeep Safaris and Tours offers local safari tours through Kenya and Tanzania. While the cost of their safaris may be on the higher side, the smaller groups ensure a more personalized journey for travelers. The safaris offered are usually luxurious, high-end, and provide a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "5-Day Amboseli & Tsavo Photography Safari",
+        "description": "Capture elephants against the backdrop of Mount Kilimanjaro in Amboseli, then explore the red elephants of Tsavo.",
+        "mainImage": "https://images.unsplash.com/photo-1549366021-9f761d450615",
+        "durationDays": 5,
+        "placesVisited": ["Amboseli National Park", "Tsavo East", "Tsavo West"],
+        "priceRange": "$2,200 - $3,100",
+        "bestTime": "June - Sept",
+        "highlights": ["Kilimanjaro Views", "Mzima Springs", "Photography Hide"]
+      }
+    ]
+  },
+  {
+    "id": "prime_safaris",
+    "name": "Prime Safaris",
+    "phoneNumber": "+254722334455",
+    "logoUrl": "https://www.primesafaris.com/images/logo.png",
+    "countries": ["Kenya", "Tanzania"],
+    "specialties": ["LUXURY", "HONEYMOON", "PRIVATE", "WILDLIFE"],
+    "rating": 4.8,
+    "reviewCount": 390,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Kenya Association of Tour Operators",
+    "region": "East Africa",
+    "description": "Prime Safaris offers local safari tours through Kenya and Tanzania. Despite being priced a bit higher, the small group sizes create a more personal and unique experience for travelers. Most of the safaris provided are high-end and luxurious with a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "6-Day Luxury Honeymoon: Kenya & Zanzibar",
+        "description": "Combine a Masai Mara safari with a beach escape to Zanzibar for the ultimate romantic getaway.",
+        "mainImage": "https://images.unsplash.com/photo-1547970810-d7e9e4d2d6c0",
+        "durationDays": 6,
+        "placesVisited": ["Masai Mara", "Zanzibar"],
+        "priceRange": "$3,500 - $4,800",
+        "bestTime": "Year-round",
+        "highlights": ["Private Safari Vehicle", "Sunset Dhow Cruise", "Beachfront Villa"]
+      }
+    ]
+  },
+  {
+    "id": "kutamani_safaris",
+    "name": "Kutamani Safaris",
+    "phoneNumber": "+256760549990",
+    "logoUrl": "https://ugandatouroperators.org/wp-content/uploads/2024/05/kutamani-logo.png",
+    "countries": ["Uganda", "Rwanda", "DR Congo"],
+    "specialties": ["GORILLA-TREKKING", "PRIMATES", "CULTURAL", "ADVENTURE"],
+    "rating": 4.9,
+    "reviewCount": 210,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Association of Uganda Tour Operators",
+    "region": "East Africa",
+    "description": "Kutamani Safaris is a Ugandan-owned and registered tour operator offering tailored, high quality travel experiences across East Africa. From gorilla trekking in Bwindi Forest and chimpanzee tracking in Kibale Forest to private safaris in Uganda's top parks, we offer expertly guided adventures that combine excitement, relaxation, comfort and cultural depth [citation:3].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "4-Day Bwindi Gorilla Trekking Safari",
+        "description": "An intimate encounter with endangered mountain gorillas in the lush rainforests of Bwindi Impenetrable National Park.",
+        "mainImage": "https://images.unsplash.com/photo-1581281863883-2469417a1668",
+        "durationDays": 4,
+        "placesVisited": ["Kampala", "Bwindi Impenetrable National Park"],
+        "priceRange": "$1,800 - $2,500",
+        "bestTime": "June - Sept, Dec - Feb",
+        "highlights": ["Gorilla Trekking", "Community Walk", "Batwa Pygmy Experience"],
+        "bookingUrl": "https://kutamanisafaris.com/gorilla-trekking"
+      },
+      {
+        "id": 2,
+        "title": "10-Day Uganda Primate & Wildlife Safari",
+        "description": "Track gorillas, chimpanzees, and explore the savannah parks of Uganda for a complete primate and wildlife experience.",
+        "mainImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e",
+        "durationDays": 10,
+        "placesVisited": ["Kibale Forest", "Queen Elizabeth NP", "Bwindi NP", "Lake Mburo"],
+        "priceRange": "$3,500 - $4,800",
+        "bestTime": "June - Sept",
+        "highlights": ["Chimpanzee Habituation", "Tree-climbing Lions", "Boat Safari on Kazinga Channel"]
+      }
+    ]
+  },
+  {
+    "id": "ndzenga_tours",
+    "name": "Ndzenga Tours and Safaris",
+    "phoneNumber": "+27317653302",
+    "logoUrl": "https://visitkzn-sa.com/wp-content/uploads/2024/09/ndzenga-logo.png",
+    "countries": ["South Africa", "Botswana", "Namibia", "Zimbabwe"],
+    "specialties": ["CULTURAL", "MULTI-LINGUAL", "PRIVATE", "SOUTHERN-AFRICA"],
+    "rating": 4.6,
+    "reviewCount": 180,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Visit KZN",
+    "region": "Southern Africa",
+    "description": "Ndzenga Tours & Safaris has custom packages that enables you to choose your favourite destination Southern Africa. For those not familiar with Southern African region we have pre-packaged tours that will enable you to tour most destinations. Ndzenga Tours is proud to announce that we are the first tours & safaris company to offer our guest Tour Guides who speak 11 South African languages as well as German and French speaking guide service [citation:4].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "5-Day Durban & Battlefields Heritage Tour",
+        "description": "Explore Zulu culture, colonial history, and the stunning coastline of KwaZulu-Natal with multi-lingual guides.",
+        "mainImage": "https://images.unsplash.com/photo-1590074072786-a66914d668f1",
+        "durationDays": 5,
+        "placesVisited": ["Durban", "Isandlwana", "Rorke's Drift", "Valley of 1000 Hills"],
+        "priceRange": "$1,200 - $1,800",
+        "bestTime": "May - Sept",
+        "highlights": ["Zulu Village Visit", "Battlefield Tours", "Oribi Gorge"]
+      }
+    ]
+  },
+  {
+    "id": "chingitours",
+    "name": "ChingiTours",
+    "phoneNumber": "+4916092100826",
+    "logoUrl": "https://chingitours.com/wp-content/uploads/2023/logo.png",
+    "countries": ["Mauritania", "Senegal", "Gambia"],
+    "specialties": ["DESERT", "ADVENTURE", "CULTURAL", "OFF-THE-BEATEN-PATH"],
+    "rating": 4.4,
+    "reviewCount": 185,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Trustpilot Verified",
+    "region": "West Africa",
+    "description": "ChingiTours is a travel agent for West Africa based in Germany. We organize individual tours according to your wishes. From communication pre-departure to airport drop-off, everything runs smoothly. Our guides are excellent, friendly, and we ensure you feel completely safe in the vehicles at all times [citation:5].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Adrar Desert & Iron Ore Train Adventure",
+        "description": "Experience the legendary Iron Ore Train, desert oases, ancient trading posts, and camping under the stars in the Sahara.",
+        "mainImage": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43",
+        "durationDays": 8,
+        "placesVisited": ["Nouakchott", "Chinguetti", "Ouadane", "Terjit", "Eye of the Sahara"],
+        "priceRange": "$1,900 - $2,600",
+        "bestTime": "Nov - Feb",
+        "highlights": ["Iron Ore Train Ride", "Desert Camping", "Ancient Libraries", "Oasis Swimming"],
+        "bookingUrl": "https://chingitours.com/adrar-tour"
+      }
+    ]
+  },
+  {
+    "id": "mosaic_north_africa",
+    "name": "Mosaic North Africa",
+    "phoneNumber": "+14318000979",
+    "logoUrl": "https://mosaicnorthafrica.com/wp-content/uploads/logo.png",
+    "countries": ["Tunisia", "Morocco", "Algeria", "Mauritania"],
+    "specialties": ["ARCHAEOLOGY", "ROMAN-HISTORY", "STAR-WARS", "DESERT", "PRIVATE"],
+    "rating": 4.5,
+    "reviewCount": 312,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Trustpilot Verified",
+    "region": "North Africa",
+    "description": "As a Canadian tour company operating in North Africa, all of our Travel Experts have firsthand knowledge and experience with the language, people, and culture from living in the region for over a decade. Since 2011, our passion and expertise have helped hundreds of travelers experience the unique culture, history, and beauty of Morocco, Algeria, Tunisia and Mauritania [citation:6].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "14-Day Roman Ruins & Sahara Sands: Algeria Tour",
+        "description": "Explore Algeria's stunning Roman ruins, Sahara desert landscapes, and welcoming culture with expert guides.",
+        "mainImage": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+        "durationDays": 14,
+        "placesVisited": ["Algiers", "Timgad", "Djemila", "Tassili n'Ajjer", "Ghardaia"],
+        "priceRange": "$3,800 - $5,200",
+        "bestTime": "March - May, Sept - Nov",
+        "highlights": ["UNESCO Roman Ruins", "Sahara Desert", "M'zab Valley", "Cave Paintings"],
+        "bookingUrl": "https://mosaicnorthafrica.com/algeria-tours"
+      },
+      {
+        "id": 2,
+        "title": "13-Day Star Wars & Ancient Empires: Tunisia Tour",
+        "description": "Visit iconic Star Wars filming locations, Roman coliseums, and Berber villages across Tunisia.",
+        "mainImage": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43",
+        "durationDays": 13,
+        "placesVisited": ["Tunis", "Carthage", "El Jem", "Matmata", "Tozeur", "Star Wars Canyon"],
+        "priceRange": "$3,200 - $4,500",
+        "bestTime": "Oct - April",
+        "highlights": ["Star Wars Film Locations", "Amphitheater of El Jem", "Troglodyte Caves", "Sahara 4x4 Excursion"]
+      }
+    ]
+  },
+  {
+    "id": "teamwise_travel_africa",
+    "name": "Teamwise Travel Africa",
+    "phoneNumber": "+255784730050",
+    "logoUrl": "https://www.teamwise.travel/wp-content/uploads/logo.png",
+    "countries": ["Tanzania", "Kenya", "Uganda", "Rwanda"],
+    "specialties": ["PRIVATE", "FAMILY", "LUXURY", "EXPERT-GUIDES"],
+    "rating": 4.9,
+    "reviewCount": 650,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Trustindex Verified",
+    "region": "East Africa",
+    "description": "Teamwise has grown into a premier safari company, delivering exclusive experiences and curated travel packages for discerning travelers. Our guides are extremely knowledgeable, patient, flexible, and have a knack of putting guests on the best viewing spots at the right time. Everything is organized clearly and promptly [citation:7].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Big Four Parks Safari: Tanzania",
+        "description": "Visit Tarangire, Lake Manyara, Ngorongoro Crater, and the Serengeti with expert guides who know exactly where to find the wildlife.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 7,
+        "placesVisited": ["Tarangire NP", "Lake Manyara", "Ngorongoro Crater", "Serengeti NP"],
+        "priceRange": "$2,800 - $3,900",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five Sightings", "Crater Floor Picnic", "Migration River Crossings"],
+        "bookingUrl": "https://teamwise.travel/big-four-safari"
+      },
+      {
+        "id": 2,
+        "title": "4-Day Arusha NP & Kilimanjaro Tour",
+        "description": "Perfect for limited time, explore Arusha National Park and experience the foothills of Mount Kilimanjaro.",
+        "mainImage": "https://images.unsplash.com/photo-1542332219-08c8f9e089b7",
+        "durationDays": 4,
+        "placesVisited": ["Arusha NP", "Mount Kilimanjaro", "Materuni Waterfalls"],
+        "priceRange": "$1,200 - $1,800",
+        "bestTime": "Year-round",
+        "highlights": ["Game Drives", "Coffee Tour", "Waterfall Hike"]
+      }
+    ]
+  },
+  {
+    "id": "african_spoonbill_tours",
+    "name": "African Spoonbill Tours",
+    "phoneNumber": "+255713408291",
+    "logoUrl": "https://www.africanspoonbilltours.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya", "Zanzibar"],
+    "specialties": ["KILIMANJARO", "SAFARI", "BEACH", "FAMILY", "HONEYMOON"],
+    "rating": 4.8,
+    "reviewCount": 420,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Tanzania Association of Tour Operators",
+    "region": "East Africa",
+    "description": "African Spoonbill Tours is one of Tanzania's leading safari and travel companies, offering exceptional journeys into the heart of Africa. Established in 2007 and headquartered in Moshi, near the iconic Mount Kilimanjaro, the company has grown into a trusted name in the tourism industry with more than 15 years of hands-on experience [citation:9].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Kilimanjaro Climb - Machame Route",
+        "description": "The popular 'Whiskey Route' up Kilimanjaro, offering stunning scenery and a challenging but achievable summit bid.",
+        "mainImage": "https://images.unsplash.com/photo-1542332219-08c8f9e089b7",
+        "durationDays": 7,
+        "placesVisited": ["Mount Kilimanjaro", "Machame Camp", "Barranco Wall", "Uhuru Peak"],
+        "priceRange": "$2,200 - $2,900",
+        "bestTime": "Jan - March, June - Oct",
+        "highlights": ["Summit Sunrise", "Glacier Views", "Experienced Mountain Crew"],
+        "bookingUrl": "https://africanspoonbilltours.com/machame-route"
+      },
+      {
+        "id": 2,
+        "title": "10-Day Northern Circuit Safari & Zanzibar Beach",
+        "description": "Combine Tanzania's best national parks with a relaxing beach escape to the spice island of Zanzibar.",
+        "mainImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e",
+        "durationDays": 10,
+        "placesVisited": ["Tarangire", "Serengeti", "Ngorongoro Crater", "Zanzibar"],
+        "priceRange": "$3,200 - $4,500",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five Safari", "Stone Town Tour", "Beach Relaxation"]
+      }
+    ]
+  },
+  {
+    "id": "dahlia_africa",
+    "name": "Dahlia Africa",
+    "phoneNumber": "+255789123456",
+    "logoUrl": "https://www.dahliafrica.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya"],
+    "specialties": ["WILDLIFE", "TREKKING", "CLIMBING", "CULTURAL", "PRIVATE"],
+    "rating": 4.8,
+    "reviewCount": 48,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "East Africa",
+    "description": "Dahlia Africa offers wildlife safaris, trekking and hiking, adventure, climbing, and local culture experiences. Our team provides well-curated trips with excellent communication and flexibility in planning. Booking with a local company makes a great contribution to the local economy [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Luxury Safari & Culture Experience",
+        "description": "A well-curated journey through Tanzania's top parks with cultural visits to local communities.",
+        "mainImage": "https://images.unsplash.com/photo-1532015781578-cc7b6c5f9a0a",
+        "durationDays": 8,
+        "placesVisited": ["Arusha", "Tarangire", "Ngorongoro", "Serengeti", "Maasai Village"],
+        "priceRange": "$3,800 - $5,000",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five Game Drives", "Cultural Immersion", "Luxury Safari Camps"]
+      }
+    ]
+  },
+  {
+    "id": "enosa_expeditions",
+    "name": "Enosa Expeditions",
+    "phoneNumber": "+255755123456",
+    "logoUrl": "https://www.enosaexpeditions.com/images/logo.png",
+    "countries": ["Tanzania"],
+    "specialties": ["KILIMANJARO", "TREKKING", "HIKING", "BICYCLE-TOURS", "WILDLIFE"],
+    "rating": 4.9,
+    "reviewCount": 100,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "East Africa",
+    "description": "Enosa Expeditions specializes in Kilimanjaro climbs with exceptional guides who are extraordinarily knowledgeable, patient, and motivating. Their knowledge of the mountain, attention to climber wellness, and constant encouragement play a huge role in summit success. The support team of porters, waiters, and chefs provide pure luxury during challenging treks [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Kilimanjaro - Lemosho Route",
+        "description": "Climb Kilimanjaro via the scenic Lemosho route with expert guides who ensure the highest summit success rates.",
+        "mainImage": "https://images.unsplash.com/photo-1542332219-08c8f9e089b7",
+        "durationDays": 7,
+        "placesVisited": ["Mount Kilimanjaro", "Shira Plateau", "Lava Tower", "Barranco Wall", "Uhuru Peak"],
+        "priceRange": "$2,400 - $3,200",
+        "bestTime": "Jan - March, June - Oct",
+        "highlights": ["Experienced Guides", "Nutritious Meals", "Summit Success Focus"],
+        "bookingUrl": "https://enosaexpeditions.com/lemosho-route"
+      }
+    ]
+  },
+  {
+    "id": "kilisa_tours",
+    "name": "Kilisa Tours & Safaris",
+    "phoneNumber": "+255754123456",
+    "logoUrl": "https://www.kilisatours.com/images/logo.png",
+    "countries": ["Tanzania"],
+    "specialties": ["CLIMBING", "TREKKING", "WILDLIFE", "NATURE-WALKS", "DAY-TRIPS"],
+    "rating": 4.7,
+    "reviewCount": 53,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "East Africa",
+    "description": "As a local tour agency, Kilisa Tours & Safaris coordinates Kilimanjaro day trips and safari itineraries with precision. They manage every detail, from hotel logistics in Arusha to game drives in Tarangire and Serengeti. Their exceptional guides know the parks thoroughly and deliver quality and value [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "5-Day Tanzania Highlights Safari",
+        "description": "Visit Tarangire, Ngorongoro Crater, and Lake Manyara with knowledgeable guides and comfortable accommodations.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 5,
+        "placesVisited": ["Tarangire NP", "Ngorongoro Crater", "Lake Manyara"],
+        "priceRange": "$1,800 - $2,400",
+        "bestTime": "June - Oct",
+        "highlights": ["Crater Floor Game Drive", "Tree-climbing Lions", "Elephant Herds"]
+      }
+    ]
+  },
+  {
+    "id": "hazzes_adventure",
+    "name": "Hazzes Adventure",
+    "phoneNumber": "+255754789012",
+    "logoUrl": "https://www.hazzesadventure.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya", "Uganda"],
+    "specialties": ["LUXURY", "WILDLIFE", "SMALL-GROUPS", "ADVENTURE"],
+    "rating": 4.5,
+    "reviewCount": 75,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "TourRadar Verified",
+    "region": "East Africa",
+    "description": "Hazzes Adventure is a smaller tour company that offers trips to Tanzania, Kenya, and Uganda. The tours offered are usually luxurious, high-end, and provide a top-tier level of service. Wildlife viewing tours are their specialty, so you'll know that you're signing up for a fun experience [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Northern Circuit Luxury Safari",
+        "description": "Experience the best of Tanzania's northern parks with premium accommodations and expert guiding.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 7,
+        "placesVisited": ["Arusha", "Lake Manyara", "Serengeti", "Ngorongoro Crater"],
+        "priceRange": "$3,000 - $4,200",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five", "Hot Air Balloon", "Luxury Lodges"]
+      }
+    ]
+  },
+  {
+    "id": "bamba_travel",
+    "name": "Bamba Travel",
+    "phoneNumber": "+442034681234",
+    "logoUrl": "https://www.bambatravel.com/images/logo.png",
+    "countries": ["Kenya", "Tanzania", "Multiple Countries Worldwide"],
+    "specialties": ["BUDGET", "GROUP-TOURS", "ADVENTURE", "MULTI-COUNTRY"],
+    "rating": 4.9,
+    "reviewCount": 2500,
+    "priceTier": "$",
+    "isVerified": true,
+    "verificationType": "TourRadar Verified",
+    "region": "International",
+    "description": "Bamba Travel is a large international travel company offering trips all over the world. Budget travelers will appreciate the relative affordability of the company's offerings. They offer multi-country packages that cover Kenya and Tanzania's top attractions [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Kenya & Tanzania Budget Safari",
+        "description": "Visit Nairobi, Masai Mara, Lake Nakuru, Arusha, Tarangire, Serengeti, and Ngorongoro on an affordable group tour.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 8,
+        "placesVisited": ["Nairobi", "Masai Mara", "Lake Nakuru", "Arusha", "Tarangire", "Serengeti", "Ngorongoro"],
+        "priceRange": "$2,800 - $3,600",
+        "bestTime": "June - Oct",
+        "highlights": ["Great Migration", "Big Five", "Group Experience"]
+      }
+    ]
+  },
+  {
+    "id": "gracepatt_ecotours",
+    "name": "Gracepatt Ecotours Kenya",
+    "phoneNumber": "+254722987654",
+    "logoUrl": "https://www.gracepatt.com/images/logo.png",
+    "countries": ["Kenya"],
+    "specialties": ["ECOTOURISM", "WILDLIFE", "ADVENTURE", "CAMPING", "BUDGET"],
+    "rating": 4.8,
+    "reviewCount": 120,
+    "priceTier": "$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "East Africa",
+    "description": "Gracepatt Ecotours Kenya specializes in wildlife safaris and game drives, adventure, wildlife, camping, and national parks. Our guides are EXCELLENT drivers and very good at spotting animals. You can't beat this tour for the price, and we ensure you see all of the big five [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "6-Day Kenya Budget Camping Safari",
+        "description": "An affordable camping safari covering Kenya's top parks with excellent guides who know where to find the wildlife.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 6,
+        "placesVisited": ["Nairobi", "Masai Mara", "Lake Nakuru", "Amboseli"],
+        "priceRange": "$800 - $1,200",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five", "Camping Experience", "Group Adventure"]
+      }
+    ]
+  },
+  {
+    "id": "voyagiste_maroc",
+    "name": "Voyagiste Maroc",
+    "phoneNumber": "+212524123456",
+    "logoUrl": "https://www.voyagistemaroc.com/images/logo.png",
+    "countries": ["Morocco"],
+    "specialties": ["SIGHTSEEING", "PHOTOGRAPHY", "DESERT", "CULTURAL", "PRIVATE"],
+    "rating": 4.8,
+    "reviewCount": 95,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "North Africa",
+    "description": "Voyagiste Maroc offers sightseeing tours, city sightseeing, natural landmarks sightseeing, photography tours, and expedition tours. Our drivers are very skilled and friendly, knowing a lot about every region of Morocco and the best photo spots. We provide a great experience to see a lot of Morocco in relatively short time [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "10-Day Imperial Cities & Desert Tour",
+        "description": "From Marrakech to Fes through Ouarzazate and the Merzouga desert, experience the variety of Morocco's landscapes and culture.",
+        "mainImage": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43",
+        "durationDays": 10,
+        "placesVisited": ["Marrakech", "Ouarzazate", "Merzouga", "Fes"],
+        "priceRange": "$1,800 - $2,500",
+        "bestTime": "March - May, Sept - Nov",
+        "highlights": ["Sahara Desert Camp", "Atlas Mountains", "Ait Benhaddou", "Local Guides"],
+        "bookingUrl": "https://voyagistemaroc.com/imperial-cities"
+      }
+    ]
+  },
+  {
+    "id": "african_polecat_safaris",
+    "name": "African Polecat Safaris",
+    "phoneNumber": "+255754567890",
+    "logoUrl": "https://www.africanpolecatsafaris.com/images/logo.png",
+    "countries": ["Tanzania"],
+    "specialties": ["WILDLIFE", "LUXURY", "SMALL-GROUPS", "PHOTOGRAPHY"],
+    "rating": 4.8,
+    "reviewCount": 85,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "TourRadar Verified",
+    "region": "East Africa",
+    "description": "African Polecat Safaris offers local safari tours through Tanzania. Most of the tours provided are high-end and luxurious with a top-tier level of service. By specifically offering wildlife safaris, this company offers a number of great adventures that can't be missed [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "7-Day Tanzania Northern Circuit Luxury Safari",
+        "description": "Visit Arusha, Tarangire, Serengeti, Ngorongoro, and Lake Manyara with premium services and accommodations.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 7,
+        "placesVisited": ["Arusha", "Tarangire", "Serengeti", "Ngorongoro", "Lake Manyara"],
+        "priceRange": "$3,200 - $4,200",
+        "bestTime": "June - Oct",
+        "highlights": ["Big Five", "Private Vehicle", "Luxury Camps"]
+      }
+    ]
+  },
+  {
+    "id": "almighty_kilimanjaro",
+    "name": "Almighty Kilimanjaro",
+    "phoneNumber": "+255755901234",
+    "logoUrl": "https://www.almightykilimanjaro.com/images/logo.png",
+    "countries": ["Tanzania", "Kenya", "Uganda"],
+    "specialties": ["KILIMANJARO", "TREKKING", "WILDLIFE", "MID-RANGE"],
+    "rating": 4.7,
+    "reviewCount": 156,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "TourRadar Verified",
+    "region": "East Africa",
+    "description": "Almighty Kilimanjaro is a smaller international tour company with trips to Tanzania, Kenya, and Uganda. Many of the safaris fall into the mid-range price category. Wildlife viewing tours are their focus, guaranteeing a memorable and exciting experience [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "8-Day Kilimanjaro - Lemosho Route",
+        "description": "Climb Kilimanjaro via the beautiful Lemosho route with experienced guides and solid mid-range support.",
+        "mainImage": "https://images.unsplash.com/photo-1542332219-08c8f9e089b7",
+        "durationDays": 8,
+        "placesVisited": ["Mount Kilimanjaro"],
+        "priceRange": "$2,100 - $2,800",
+        "bestTime": "Jan - March, June - Oct",
+        "highlights": ["Summit Success", "Experienced Crew", "Scenic Route"]
+      }
+    ]
+  },
+  {
+    "id": "holiday_destination_safaris",
+    "name": "Holiday Destination Safaris",
+    "phoneNumber": "+254722111222",
+    "logoUrl": "https://www.holidaydestinationsafaris.com/images/logo.png",
+    "countries": ["Kenya", "Tanzania", "Uganda"],
+    "specialties": ["LUXURY", "WILDLIFE", "PRIMATES", "SMALL-GROUPS"],
+    "rating": 4.8,
+    "reviewCount": 210,
+    "priceTier": "$$$",
+    "isVerified": true,
+    "verificationType": "TourRadar Verified",
+    "region": "East Africa",
+    "description": "Holiday Destination Safaris offers local safari tours through Kenya, Tanzania, and Uganda. Despite being priced a bit higher, the small group sizes create a more personal and unique experience for travelers. Most of the safaris provided are high-end and luxurious with a top-tier level of service [citation:2].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "10-Day Kenya & Tanzania Combined Safari",
+        "description": "Experience the best of both countries from Nairobi to Kilimanjaro, visiting Masai Mara, Serengeti, and Ngorongoro.",
+        "mainImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+        "durationDays": 10,
+        "placesVisited": ["Nairobi", "Masai Mara", "Serengeti", "Ngorongoro", "Arusha", "Kilimanjaro"],
+        "priceRange": "$4,500 - $6,000",
+        "bestTime": "June - Oct",
+        "highlights": ["Great Migration", "Big Five", "Cross-border Experience"]
+      }
+    ]
+  },
+  {
+    "id": "travel_talk_africa",
+    "name": "Travel Talk",
+    "phoneNumber": "+20212345678",
+    "logoUrl": "https://www.traveltalk.com/images/logo.png",
+    "countries": ["Egypt", "Morocco"],
+    "specialties": ["GROUP-TOURS", "EXPLORER", "HISTORY", "CULTURAL", "CRUISE"],
+    "rating": 4.5,
+    "reviewCount": 220,
+    "priceTier": "$$",
+    "isVerified": true,
+    "verificationType": "Bookmundi Verified",
+    "region": "North Africa",
+    "description": "Travel Talk specializes in explorer tours, cultural and historic sites, city sightseeing, sailing, and art and architecture. Our staff goes above and beyond to meet your needs and ensure you have a great time. Passionate guides and safe drivers make the experience exceptional [citation:8].",
+    "itineraries": [
+      {
+        "id": 1,
+        "title": "10-Day Nile Explorer: Cairo to Luxor",
+        "description": "Discover the wonders of ancient Egypt with guided tours of the pyramids, Egyptian Museum, and a Nile cruise.",
+        "mainImage": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+        "durationDays": 10,
+        "placesVisited": ["Cairo", "Aswan", "Luxor", "Abu Simbel"],
+        "priceRange": "$1,800 - $2,600",
+        "bestTime": "Oct - April",
+        "highlights": ["Great Pyramids", "Nile Cruise", "Valley of the Kings", "Expert Guides"]
+      }
+    ]
   }
 ]
-
